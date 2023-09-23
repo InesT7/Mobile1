@@ -20,7 +20,8 @@
   <label text="fourth" width="30%" height="30%" backgroundColor="#289062" />
 </WrapLayout>
 
-     
+     <ListPicker items="{{ years }}" selectedIndex="0" loaded="onListPickerLoaded" />
+
 
 
       
