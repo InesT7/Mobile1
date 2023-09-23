@@ -19,12 +19,7 @@
   <label text="third" width="30%" height="30%" backgroundColor="#289062" />
   <label text="fourth" width="30%" height="30%" backgroundColor="#289062" />
 </WrapLayout>
-<Progress
-  width="100%"
-  value="{{ progressValue }}"
-  maxValue="{{ progressMaxValue }}"
-  loaded="onProgressLoaded"
-/>
+
      
 
 
